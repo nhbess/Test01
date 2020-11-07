@@ -12,3 +12,9 @@ luego aqui
 now lets match those two branches (if posible)
 // git merge new-branch, Note that git merge merges the specified branch into the currently 
 //active branch. So we need to be on the branch that we are merging into.
+
+goto branch3
+bldasd
+asdasd
+sads
+git 
